@@ -39,7 +39,7 @@
 |Scale|等比例缩放|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/14Scale.png)|
 |R-Scale|不等比例缩放|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/15R-Scale.png)|
 |Transl|随机平移|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/16Transl.png)|
-|Rotate|随机旋转|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/17Rotate.png)|
+|HSV|HSV变换|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/17Rotate.png)|
 |PerTran|透视变换|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/18PerTran.png)|
 |Contra|随机对比度|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/19Contra.png)|
 |Edge|强化边缘|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/20Edge.png)|
