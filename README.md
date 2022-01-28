@@ -5,11 +5,9 @@
 
 ****
 	
-|B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
-|---|---|
-|人工智能技术探讨群1|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|
-|人工智能技术探讨群2|[571218304](https://jq.qq.com/?_wv=1027&k=ZCDCT3xV)|
-|人工智能技术探讨群3|[584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|B站主页|人工智能技术探讨群1|人工智能技术探讨群2|人工智能技术探讨群3|
+|---|---|---|---|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|[571218304](https://jq.qq.com/?_wv=1027&k=ZCDCT3xV)|[584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 ****
 
