@@ -11,13 +11,15 @@
 
 ****
 
-|视频教程|百度云下载|谷歌云下载|
-|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1Wv411h7kN)|[提取码：j57k](https://pan.baidu.com/s/15kMqqFzCr3ut-WK03XV5FQ)|[点我跳转](https://drive.google.com/file/d/1XP9pDiY7M9eYfCPtXAm-jKXrl58-k-Y4/view?usp=sharing)|
+|视频教程|百度云下载|谷歌云下载|Realease下载|
+|---|---|---|---|
+|[点我查看教程](https://www.bilibili.com/video/BV1Wv411h7kN)|[提取码：j57k](https://pan.baidu.com/s/15kMqqFzCr3ut-WK03XV5FQ)|[点我跳转](https://drive.google.com/file/d/1XP9pDiY7M9eYfCPtXAm-jKXrl58-k-Y4/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V1.0/ImgAug.exe)
 
 ****
 
-[![ ](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main.png)](https://space.bilibili.com/46880349)
+|版本|日期|功能|界面|
+|---|---|---|---|
+|V1.0|2022/01/28|添加随机像素、高斯噪声、随机矩形遮挡、随机像素置零、椒盐噪声、动画效果、渐变蒙板混合、高斯模糊、运动模糊、改变色温、自适应直方图均衡、水平翻转、垂直翻转、等比例缩放、不等比例缩放、随机平移、HSV变换、透视变换、随机对比度、强化边缘、随机亮度、最大池化、平均池化、随机裁剪与填充。支持单张/批量操作，XML随图像增强改变|[![ ](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main.png)]|
 
 ****
 
