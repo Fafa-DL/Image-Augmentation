@@ -20,6 +20,10 @@
 
 ****
 
+[![ ](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main.png)](https://space.bilibili.com/46880349)
+
+****
+
 |名称|说明|效果|
 |---|---|---|
 |Init|原始图片|![Init](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/Init.png)|
