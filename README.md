@@ -11,7 +11,7 @@
 
 ****
 
-|视频教程|百度云下载|谷歌云下载|Realease下载|
+|视频教程|百度云下载|谷歌云下载|Release下载|
 |---|---|---|---|
 |[点我查看教程](https://www.bilibili.com/video/BV1Wv411h7kN)|[提取码：j57k](https://pan.baidu.com/s/15kMqqFzCr3ut-WK03XV5FQ)|[点我跳转](https://drive.google.com/file/d/1XP9pDiY7M9eYfCPtXAm-jKXrl58-k-Y4/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V1.0/ImgAug.exe)
 
