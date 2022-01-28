@@ -15,9 +15,9 @@
 
 |名称|项目|
 |---|---|
-|视频教程|[图像增强软件使用说明](https://www.bilibili.com/video/BV1Wv411h7kN)|
-|百度云软件下载|[提取码：ry4a](https://pan.baidu.com/s/1ZFWzLpMT301GacRPWIndEg)|
-
+|视频教程|[点我查看教程](https://www.bilibili.com/video/BV1Wv411h7kN)|
+|百度云|[提取码：j57k](https://pan.baidu.com/s/15kMqqFzCr3ut-WK03XV5FQ)|
+|谷歌云|[点我跳转](https://drive.google.com/file/d/1XP9pDiY7M9eYfCPtXAm-jKXrl58-k-Y4/view?usp=sharing)|
 ****
 
 [![ ](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main.png)](https://space.bilibili.com/46880349)
