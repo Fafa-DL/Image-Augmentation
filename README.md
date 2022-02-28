@@ -1,7 +1,7 @@
 图像增强软件
 ===========================
 
-[![BILIBILI](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Mine.png)](https://space.bilibili.com/46880349)
+[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 
 ****
 	
