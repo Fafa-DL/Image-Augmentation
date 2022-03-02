@@ -13,7 +13,7 @@
 
 |视频教程|百度云下载|谷歌云下载|Release下载|
 |---|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：5dcl](https://pan.baidu.com/s/1iYIfKKIFoOTzIvv3Jq5fPw)|[点我跳转](https://drive.google.com/file/d/1gmQtjvxw7UszNXk7z3JENhTmqQzklua7/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.0/ImgAug2.0.exe)
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：npxr](https://pan.baidu.com/s/1a1ofF6-yFZvNsvaGK24gaQ)|[点我跳转](https://drive.google.com/file/d/1S_tfzL4Xz98vwdQTnu-4T7BpBHMjvUeJ/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.1/ImgAug2.1.exe)
 
 ****
 
@@ -22,6 +22,7 @@
 |V1.0|2022/01/28|添加随机像素、高斯噪声、随机矩形遮挡、随机像素置零、椒盐噪声、动画效果、渐变蒙板混合、高斯模糊、运动模糊、改变色温、自适应直方图均衡、水平翻转、垂直翻转、等比例缩放、不等比例缩放、随机平移、HSV变换、透视变换、随机对比度、强化边缘、随机亮度、最大池化、平均池化、随机裁剪与填充。支持单张/批量操作，XML随图像增强改变|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main.png)|
 |V1.1|2022/02/09|批量操作支持自主选择是否提供XML|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_1.1.png)|
 |V2.0|2022/02/28|1.修复不同电脑UI显示不全问题；<br>2.支持图像分割JSON标注文件增强；<br>3.支持标注可视化；<br>4.修复批量操作文件过多导致卡死问题。|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
+|V2.1|2022/03/02|修复文件带有中文引起的报错，注意路径不要有中文！|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 
 ****
 
