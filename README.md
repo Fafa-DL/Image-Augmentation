@@ -13,7 +13,7 @@
 
 |视频教程|百度云下载|谷歌云下载|Release下载|
 |---|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：npxr](https://pan.baidu.com/s/1a1ofF6-yFZvNsvaGK24gaQ)|[点我跳转](https://drive.google.com/file/d/1S_tfzL4Xz98vwdQTnu-4T7BpBHMjvUeJ/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.1/ImgAug2.1.exe)
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：8c3e](https://pan.baidu.com/s/1E6iDWgrucfE82yP8DDppCQ)|[点我跳转](https://drive.google.com/file/d/1A9A4ysCEnDt9AJJa9ld4RrhgLgp8WQqk/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.2/ImgAug2.2.exe)
 
 ****
 
@@ -23,6 +23,7 @@
 |V1.1|2022/02/09|批量操作支持自主选择是否提供XML|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_1.1.png)|
 |V2.0|2022/02/28|1.修复不同电脑UI显示不全问题；<br>2.支持图像分割JSON标注文件增强；<br>3.支持标注可视化；<br>4.修复批量操作文件过多导致卡死问题。|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.1|2022/03/02|修复文件带有中文引起的报错，注意路径不要有中文！|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
+|V2.2|2022/03/03|Json文件图片信息补充|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 
 ****
 
