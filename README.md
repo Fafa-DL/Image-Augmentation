@@ -13,7 +13,7 @@
 
 |视频教程|百度云下载|谷歌云下载|Release下载|
 |---|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：8c3e](https://pan.baidu.com/s/1E6iDWgrucfE82yP8DDppCQ)|[点我跳转](https://drive.google.com/file/d/1A9A4ysCEnDt9AJJa9ld4RrhgLgp8WQqk/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.2/ImgAug2.2.exe)
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：9x34](https://pan.baidu.com/s/18Fdq5FkksS8DAbl7NwtlvQ)|[点我跳转](https://drive.google.com/file/d/1KvsNgFMTXg2DP25RLQ-kvU_5j5m9K8qF/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.2/ImgAug2.2.exe)
 
 ****
 
