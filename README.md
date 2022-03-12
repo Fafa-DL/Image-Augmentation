@@ -11,9 +11,9 @@
 
 ****
 
-|视频教程|百度云下载|谷歌云下载|Release下载|
-|---|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|[提取码：9x34](https://pan.baidu.com/s/18Fdq5FkksS8DAbl7NwtlvQ)|[点我跳转](https://drive.google.com/file/d/1KvsNgFMTXg2DP25RLQ-kvU_5j5m9K8qF/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.2/ImgAug2.2.exe)
+|视频教程|公众号|百度云下载|谷歌云下载|Release下载|
+|---|---|---|---|---|
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生|[提取码：iqm8](https://pan.baidu.com/s/1ptEYQCkoCQ8SzYblTtuqyw)|[点我跳转](https://drive.google.com/file/d/1hmjKcfvsNvjvUyzh1621kjMvcIYwNYuL/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.3/ImgAug2.3.exe)
 
 ****
 
