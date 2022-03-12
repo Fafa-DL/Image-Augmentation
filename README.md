@@ -24,6 +24,7 @@
 |V2.0|2022/02/28|1.修复不同电脑UI显示不全问题；<br>2.支持图像分割JSON标注文件增强；<br>3.支持标注可视化；<br>4.修复批量操作文件过多导致卡死问题。|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.1|2022/03/02|修复文件带有中文引起的报错，注意路径不要有中文！|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.2|2022/03/03|Json文件图片信息补充|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
+|V2.3|2022/03/12|1.修复XML&JSON文件因增强后超出图片尺寸引起的写入问题;<br>2.增强后Json文件ImagePath信息更新|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 
 ****
 
