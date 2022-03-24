@@ -11,9 +11,9 @@
 
 ****
 
-|视频教程|公众号|百度云下载|谷歌云下载|Release下载|
+|视频教程|公众号获取下载|Release下载|
 |---|---|---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生|[提取码：iqm8](https://pan.baidu.com/s/1ptEYQCkoCQ8SzYblTtuqyw)|[点我跳转](https://drive.google.com/file/d/1hmjKcfvsNvjvUyzh1621kjMvcIYwNYuL/view?usp=sharing)|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.3/ImgAug2.3.exe)
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.4/ImgAug2.4.exe)
 
 ****
 
@@ -25,6 +25,7 @@
 |V2.1|2022/03/02|修复文件带有中文引起的报错，注意路径不要有中文！|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.2|2022/03/03|Json文件图片信息补充|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.3|2022/03/12|1.修复XML&JSON文件因增强后超出图片尺寸引起的写入问题;<br>2.增强后Json文件ImagePath信息更新|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
+|V2.3|2022/03/24|修复Json增强后坐标为空问题|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 
 ****
 
