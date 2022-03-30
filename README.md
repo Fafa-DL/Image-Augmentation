@@ -12,7 +12,7 @@
 ****
 
 |视频教程|公众号获取下载|Release下载|
-|---|---|---|---|---|
+|---|---|---|
 |[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.4/ImgAug2.4.exe)
 
 ****
