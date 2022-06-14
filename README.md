@@ -13,7 +13,7 @@
 
 |视频教程|公众号获取下载|Release下载|
 |---|---|---|
-|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.4/ImgAug2.4.exe)
+|[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)
 
 ****
 
@@ -27,6 +27,7 @@
 |V2.3|2022/03/12|1.修复XML&JSON文件因增强后超出图片尺寸引起的写入问题;<br>2.增强后Json文件ImagePath信息更新|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.4|2022/03/24|修复Json增强后坐标为空问题|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 |V2.4|2022/04/21|修复细节错误，V3.0快来啦|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
+|V2.5|2022/06/14|新增灰度图处理，提升兼容性|![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_2.0.png)|
 
 ****
 
