@@ -7,7 +7,7 @@
 	
 |B站主页|CSDN|人工智能技术探讨群|
 |:-----:|:-----:|:-----:|
-|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生]|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 
 |视频教程|公众号获取下载|Release下载|
@@ -45,7 +45,7 @@
 - [size](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/size.rst)
 - [weather](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/weather.rst)
 
-！[demo](doc/images/examples_grid.jpg)
+![demo](doc/images/examples_grid.jpg)
 
 ## 参考
 ```
