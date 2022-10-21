@@ -5,13 +5,13 @@
 
 ****
 	
-|B站主页|人工智能技术探讨群1|人工智能技术探讨群3|
-|---|---|---|
-|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|[584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|B站主页|CSDN|人工智能技术探讨群|
+|:-----:|:-----:|:-----:|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生]|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 
 |视频教程|公众号获取下载|Release下载|
-|---|---|---|
+|:-----:|:-----:|:-----:|
 |[点我查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.0]|
 
 ****
@@ -26,26 +26,26 @@
 
 ## 增强方式
 
-[meta](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/meta.rst)
-[arithmetic](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/arithmetic.rst)
-[artistic](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/artistic.rst)
-[blend](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/blend.rst)
-[blur](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/blur.rst)
-[collections](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/collections.rst)
-[color](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/color.rst)
-[contrast](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/contrast.rst)
-[convolutional](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/convolutional.rst)
-[edges](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/edges.rst)
-[flip](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/flip.rst)
-[geometric](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/geometric.rst)
-[imgcorruptlike](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/artistic.rst)
-[pillike](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/imgcorruptlike.rst)
-[pooling](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/pooling.rst)
-[segmentation](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/segmentation.rst)
-[size](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/size.rst)
-[weather](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/weather.rst)
+- [meta](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/meta.rst)
+- [arithmetic](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/arithmetic.rst)
+- [artistic](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/artistic.rst)
+- [blend](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/blend.rst)
+- [blur](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/blur.rst)
+- [collections](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/collections.rst)
+- [color](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/color.rst)
+- [contrast](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/contrast.rst)
+- [convolutional](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/convolutional.rst)
+- [edges](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/edges.rst)
+- [flip](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/flip.rst)
+- [geometric](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/geometric.rst)
+- [imgcorruptlike](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/artistic.rst)
+- [pillike](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/imgcorruptlike.rst)
+- [pooling](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/pooling.rst)
+- [segmentation](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/segmentation.rst)
+- [size](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/size.rst)
+- [weather](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/source/overview/weather.rst)
 
-[](doc/images/examples_grid.jpg)
+！[demo](doc/images/examples_grid.jpg)
 
 ## 参考
 ```
