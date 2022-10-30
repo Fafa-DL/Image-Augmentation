@@ -11,7 +11,7 @@
 	
 |B站主页|CSDN|视频教程|公众号获取下载|Release|技术探讨群|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.0]()|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1kR4y1T766/)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.0](https://github.com/Fafa-DL/Image-Augmentation/releases/tag/V3.0)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 ****
 
