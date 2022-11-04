@@ -19,6 +19,7 @@
 
 **`2022.11.04`** 
 - 支持`tif, tiff`格式
+- 更新python及相应库至最新版本，处理速度更快
 
 **`2022.10.29`** 
 - 3.0版本更新，2.x系列版本详见[此处](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/readme/v2.md)
