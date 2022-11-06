@@ -4,7 +4,7 @@
 <div align="center">
 
 [![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-![](https://img.shields.io/badge/Image%20Augmentation-v3.0-brightgreen)
+![](https://img.shields.io/badge/Image%20Augmentation-v3.1-brightgreen)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Image-Augmentation&right_color=yellow)
@@ -17,7 +17,7 @@
 	
 |B站主页|CSDN|视频教程|公众号获取下载|直接下载|技术探讨群|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1Sv4y1S7yb)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.0](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.0/ImgAug3.0.exe)<br/>[V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1Sv4y1S7yb)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.0](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.0/ImgAug3.0.exe)<br/>[v3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 ****
 
@@ -25,7 +25,7 @@
 
 **`2022.11.06`** 
 - [V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)支持`ppm, bmp, pgm, tif, tiff`格式
-- 更新Python及相应库至最新版本，处理速度更快，但体积更大
+- 更新Python及相应库至最新版本，处理速度更快
 
 **`2022.10.29`** 
 - 3.0版本更新，2.x系列版本详见[此处](https://github.com/Fafa-DL/Image-Augmentation/blob/master/doc/readme/v2.md)
