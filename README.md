@@ -31,13 +31,18 @@
 
 ## 更新日志
 
-**`2022.11.27`** 
-- [V3.2](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.2/ImgAug3.2.exe)发布，修复常规错误
+**`2022.12.03`, [V3.3](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.3/ImgAug3.3.exe)发布** 
+- 修复由**iaa.imgcorruptlike**引起的错误，支持`imgcorruptlike`增强功能
+- 修复增强后的路径与原始增强路径一致引起的错误（但非常不建议这样做）
+- 修复文件命名中符号兼容问题，`路径与文件名请避免使用中文！！！`
+
+**`2022.11.27`, [V3.2](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.2/ImgAug3.2.exe)发布** 
+- 修复常规错误
 - 日志文件与弹窗包含更多信息供debug
 - **输出序号若为空，由原来从序号1开始命名更改为默认使用原文件名**
 
-**`2022.11.06`** 
-- [V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)支持`ppm, bmp, pgm, tif, tiff`格式
+**`2022.11.06`，[V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)发布** 
+- 支持`ppm, bmp, pgm, tif, tiff`格式
 - 更新Python及相应库至最新版本，处理速度更快
 
 **`2022.10.29`** 
