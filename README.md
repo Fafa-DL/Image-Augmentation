@@ -31,6 +31,10 @@
 
 ## 更新日志
 
+**`2023.05.08`**
+- 修复V3.3版本按新序号命名时输出多余`.`的问题
+- 说明：遇到问题尽量把信息贴全方便复现溯源！
+
 **`2022.12.03`, [V3.3](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.3/ImgAug3.3.exe)发布** 
 - 修复由**iaa.imgcorruptlike**引起的错误，支持`imgcorruptlike`增强功能
 - 修复增强后的路径与原始增强路径一致引起的错误（但非常不建议这样做）
