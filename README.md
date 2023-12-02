@@ -17,7 +17,7 @@
 	
 |B站主页|CSDN|视频教程|公众号获取下载|直接下载|技术探讨群|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1Sv4y1S7yb)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.2](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.2/ImgAug3.2.exe)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|[啥都会一点的研究生](https://space.bilibili.com/46880349)|[啥都生](https://blog.csdn.net/zzh516451964zzh)|[查看教程](https://www.bilibili.com/video/BV1Sv4y1S7yb)|啥都会一点的研究生->资源合集->课程资源->序号00|[v2.5](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V2.5/ImgAug2.5.exe)<br/>[v3.4](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.4/ImgAug3.4.exe)|[一群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[三群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 ****
 ## 我维护的其他项目
@@ -30,6 +30,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/LabelConvert)](https://github.com/Fafa-DL/LabelConvert)
 
 ## 更新日志
+
+**`2023.12.02`**
+- 修复Issue中Numpy不兼容相关的高频问题
 
 **`2023.05.08`**
 - 修复V3.3版本按新序号命名时输出多余`.`的问题
