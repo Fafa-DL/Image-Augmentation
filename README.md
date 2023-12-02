@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/Image%20Augmentation-v3.1-brightgreen)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Image-Augmentation&right_color=yellow)
 
 ![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_3.0.png)
 
