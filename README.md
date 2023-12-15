@@ -30,7 +30,11 @@
 
 ## 更新日志
 
-**`2023.12.02`**
+**`2023.12.15`**
+- 修复缺少`imagecorruptions`引起的相关错误
+- 修复某些`numpy`版本引起的相关错误
+
+**`2023.12.02`, [V3.4](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.4/ImgAug3.4.exe)发布**
 - 修复Issue中Numpy不兼容相关的高频问题
 
 **`2023.05.08`**
@@ -47,7 +51,7 @@
 - 日志文件与弹窗包含更多信息供debug
 - **输出序号若为空，由原来从序号1开始命名更改为默认使用原文件名**
 
-**`2022.11.06`，[V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)发布** 
+**`2022.11.06`, [V3.1](https://github.com/Fafa-DL/Image-Augmentation/releases/download/V3.1/ImgAug3.1.exe)发布** 
 - 支持`ppm, bmp, pgm, tif, tiff`格式
 - 更新Python及相应库至最新版本，处理速度更快
 
