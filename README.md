@@ -4,7 +4,7 @@
 <div align="center">
 
 [![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-![](https://img.shields.io/badge/Image%20Augmentation-v3.1-brightgreen)
+![](https://img.shields.io/badge/Image%20Augmentation-v3.4-brightgreen)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
 
